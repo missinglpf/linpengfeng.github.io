@@ -56,8 +56,8 @@ links:
   - title: Awards
     url: /awards/
   - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
+  # url: /hobbies/
+  #- title: Blogs
     url: /blogs/
   - title: 中文
     url: /cn/

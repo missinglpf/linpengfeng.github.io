@@ -1,27 +1,18 @@
----
-enlayout: page
----
+layout: page
+
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="images\PengfengLin_crop.jpg">
 
 Here is **Pengfeng  ** [(test)](https://www.eng.cam.ac.uk/profiles/hc663).<br>
-
-I am a first-year PhD student in the [Internet of Everything Group](https://oba.eco/people/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://oba.eco/) and [Dr. Kai Li](https://sites.google.com/site/lukasunsw/Home), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) in the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
-
-Prior to Cambridge, I have worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an outstanding undergraduate scholar at the leading AI conferences AAAI 2024 and SIGKDD 2024.
-
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
-
----
 
 ## Research Interests
 
 - Hybrid AC/DC microgrid
-- Hyrbrid energy storage
-- Wireless Communication
-- Federated Learning
-- Graph Representation
+- Hyrbrid energy storage system
+- Power electronic based power system
+- Stability/reliability analyses
+- Power flow controller
 
 ---
 
