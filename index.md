@@ -1,11 +1,11 @@
 ---
-rlayout: page
+enlayout: page
 ---
 # About Me
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-Here is **Pengfeng LIN** [(test)](https://www.eng.cam.ac.uk/profiles/hc663).<br>
+Here is **Pengfeng  ** [(test)](https://www.eng.cam.ac.uk/profiles/hc663).<br>
 
 I am a first-year PhD student in the [Internet of Everything Group](https://oba.eco/people/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://oba.eco/) and [Dr. Kai Li](https://sites.google.com/site/lukasunsw/Home), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) in the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
 
@@ -17,8 +17,8 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 ## Research Interests
 
-- Hyrid AC/DC m
-- Internet of Agents
+- Hybrid AC/DC microgrid
+- Hyrbrid energy storage
 - Wireless Communication
 - Federated Learning
 - Graph Representation
